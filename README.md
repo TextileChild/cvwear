@@ -1,2 +1,2 @@
 # cvwear
-Wearables for Crptovoxels.
+Wearables for Cryptovoxels.
